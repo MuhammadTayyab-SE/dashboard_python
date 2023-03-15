@@ -1,2 +1,2 @@
-# dashboard_python
+# Python Shiny Dashboard
 Simple Python Shiny Dashboard using python.
