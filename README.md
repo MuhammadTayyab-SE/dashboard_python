@@ -14,4 +14,5 @@ Now the shiny server is running. Use the following URL to open dashboard in brow
     http://127.0.0.1:8000/
 
 The dashboard is simply showing the dummy data.
+
 ![Dashboard Interface](https://github.com/MuhammadTayyab-SE/dashboard_python/blob/32d546a713e94db1c90fc17aec9eabc7630bcf17/images/Capture.PNG)
