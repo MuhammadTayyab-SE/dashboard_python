@@ -5,10 +5,11 @@ To install pyshiny in conda enviroment, type
 
     pip install pyshiny
 
+# Run Server
 After installing pyshiny open command prompt and run the shiny application by command
 
     shiny run dashboard.py
-
+# The Dashboard
 Now the shiny server is running. Use the following URL to open dashboard in browser.
 
     http://127.0.0.1:8000/
